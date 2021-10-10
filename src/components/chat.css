@@ -1,0 +1,22 @@
+.chat{
+    background-color: rgba(204, 151, 99, 0.708);
+    height : 100vh;
+    width: 100vw;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+}
+.chat h1{
+    font-size: 3rem;
+    color:rgb(127, 30, 30);
+
+}
+.chat h3{
+    font-size: 2rem;
+    color:rgb(178, 34, 125);
+}
+.chat p{
+    font-size: 4rem;
+    font-weight: 900;
+    color : aqua;
+}
